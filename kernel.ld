@@ -1,4 +1,4 @@
-ENTRY(boot)
+ENTRY(kernel_main)
 
 SECTIONS {
     . = 0x80200000;
